@@ -4,7 +4,7 @@ I'm a Software Developer focused on building responsive, user-centric web applic
 
 - 💻 I’m interested in fullstack engineering, product-driven development, and solving real user problems through code.
 - 🌱 Currently deepening my skills in **Advanced JavaScript**, **React**, **Node.js**, **Express**, and **PostgreSQL**.
-- ✍️ Passionate about mentoring and sharing practical knowledge in web fundamentals and problem-solving.
+- ✍️ I mentor upcoming developers in web fundamentals — HTML, CSS, and JavaScript — with a focus on practical problem-solving.
 - 💞️ Open to collaboration on meaningful web projects and remote opportunities.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/chiemezieuchenwoke) or visit my [Portfolio](https://chiemezie-uchenwoke.vercel.app)
 

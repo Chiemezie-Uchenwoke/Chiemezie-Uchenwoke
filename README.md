@@ -2,9 +2,9 @@
 
 I'm a Software Developer passionate about building clean, responsive, and user-focused web applications. I enjoy turning ideas into real-world products and mentoring upcoming developers along the way.
 
-- 👀 I’m interested in fullstack engineering, product-driven development, and solving real user problems through code.
+- 💻 I’m interested in fullstack engineering, product-driven development, and solving real user problems through code.
 - 🌱 Currently deepening my skills in **Advanced JavaScript**, **React**, **Node.js**, **Express**, and **PostgreSQL**.
-- 💬 Passionate about mentoring and sharing practical knowledge in web fundamentals and problem-solving.
+- ✍️ Passionate about mentoring and sharing practical knowledge in web fundamentals and problem-solving.
 - 💞️ Open to collaboration on meaningful web projects and remote opportunities.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/chiemezieuchenwoke) or visit my [Portfolio](https://chiemezie-uchenwoke.vercel.app)
 
@@ -39,7 +39,7 @@ I'm a Software Developer passionate about building clean, responsive, and user-f
 
 I'm always open to discussing new ideas and collaborating on impactful projects. Don't hesitate to reach out!
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/chiemezieuchenwoke" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

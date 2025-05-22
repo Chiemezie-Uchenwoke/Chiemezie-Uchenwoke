@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Chiemezie Uchenwoke
 
-I'm a Software Developer passionate about building clean, responsive, and user-focused web applications. I enjoy turning ideas into real-world products and mentoring upcoming developers along the way.
+I'm a Software Developer focused on building responsive, user-centric web applications, with a strong foundation in frontend development and growing expertise in backend technologies.
 
 - 💻 I’m interested in fullstack engineering, product-driven development, and solving real user problems through code.
 - 🌱 Currently deepening my skills in **Advanced JavaScript**, **React**, **Node.js**, **Express**, and **PostgreSQL**.

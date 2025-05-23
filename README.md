@@ -30,7 +30,7 @@ I'm a Software Developer focused on building responsive, user-centric web applic
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiemezie-Uchenwoke&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Chiemezie-Uchenwoke&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---

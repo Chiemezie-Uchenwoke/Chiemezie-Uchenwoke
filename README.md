@@ -3,6 +3,7 @@
 I'm a Software Developer focused on building responsive, user-centric web applications, with a strong foundation in frontend development and growing expertise in backend technologies.
 
 - 💻 I’m interested in fullstack engineering, product-driven development, and solving real user problems through code.
+  
 - 🌱 Currently deepening my skills in **Advanced JavaScript**, **React**, **Node.js**, **Express**, and **PostgreSQL**.
 - ✍️ I mentor upcoming developers in web fundamentals — HTML, CSS, and JavaScript — with a focus on practical problem-solving.
 - 💞️ Open to collaboration on meaningful web projects and remote opportunities.

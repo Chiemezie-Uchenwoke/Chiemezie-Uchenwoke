@@ -2,7 +2,7 @@
 
 I'm a Fullstack Developer specialized in building responsive, user-centric web applications using technologies like React, Tailwind CSS, Node.js and Express.
 
-- 💻 I’m interested in fullstack engineering, product-driven development, and solving real user problems through code.
+- 💻 I’m interested in fullstack engineering and solving real user problems through code.
   
 - 🌱 Currently deepening my skills in **React**, **Node.js** and **Express**.
 - ✍️ I mentor upcoming developers in web fundamentals — HTML, CSS, and JavaScript — with a focus on practical problem-solving.

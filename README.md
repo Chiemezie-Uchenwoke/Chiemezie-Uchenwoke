@@ -1,10 +1,8 @@
 ## 👋 Hi, I’m Chiemezie Uchenwoke
 
-I'm a Fullstack Developer specialized in building responsive, user-centric web applications using technologies like React, Tailwind CSS, Node.js and Express.
+I'm a Fullstack Developer skilled in building responsive, user-centric web applications using technologies like React, TypeScript, Tailwind CSS, Node.js and Express.
 
 - 💻 I’m interested in fullstack engineering and solving real user problems through code.
-  
-- 🌱 Currently deepening my skills in **React**, **Node.js** and **Express**.
 - ✍️ I mentor upcoming developers in web fundamentals — HTML, CSS, and JavaScript — with a focus on practical problem-solving.
 - 💞️ Open to collaboration on meaningful web projects and remote opportunities.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/chiemezieuchenwoke) or visit my [Portfolio](https://chiemezie-uchenwoke.vercel.app)

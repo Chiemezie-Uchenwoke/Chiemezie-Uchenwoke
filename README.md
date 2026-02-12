@@ -2,14 +2,14 @@
 
 I'm a Fullstack Developer skilled in building responsive, user-centric web applications using technologies like React, TypeScript, Tailwind CSS, Node.js and Express.
 
-- 💻 I’m interested in fullstack engineering and solving real user problems through code.
-- ✍️ I mentor upcoming developers in web fundamentals — HTML, CSS, and JavaScript — with a focus on practical problem-solving.
-- 💞️ Open to collaboration on meaningful web projects and remote opportunities.
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/chiemezieuchenwoke) or visit my [Portfolio](https://chiemezie-uchenwoke.vercel.app)
+- I’m interested in fullstack engineering and solving real user problems through code.
+- I mentor upcoming developers in web fundamentals — HTML, CSS, and JavaScript — with a focus on practical problem-solving.
+- Open to collaboration on meaningful web projects and remote opportunities.
+- Reach me via [LinkedIn](https://www.linkedin.com/in/chiemezieuchenwoke) or visit my [Portfolio](https://chiemezie-uchenwoke.vercel.app)
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />

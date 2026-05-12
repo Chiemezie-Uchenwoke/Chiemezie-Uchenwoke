@@ -2,12 +2,9 @@
 
 I'm a Fullstack Developer who builds scalable and user-focused web applications that people actually use. I design and develop complete solutions from user interface to database, handling authentication, APIs, and deployment.
 
-I specialize in React, TypeScript, Node.js, and MongoDB. I've built inventory management systems handling 10,000+ records, authentication platforms with JWT and RBAC, and client-facing websites deployed to production.
+I specialize in React, TypeScript, Node.js, and MongoDB. I've built inventory management systems, authentication platforms with JWT and RBAC, and client-facing websites deployed to production.
 
-**Currently:**
-- Building fullstack applications with React, Next.js, TypeScript, Node.js, and Express
-- Training 135+ students in web development (HTML, CSS, JavaScript, React)
-- Open to remote opportunities and meaningful collaborations
+I'm open to remote opportunities and meaningful collaborations.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/chiemezieuche) | [Portfolio](https://chiemezie-uche.vercel.app)
 
@@ -34,24 +31,9 @@ I specialize in React, TypeScript, Node.js, and MongoDB. I've built inventory ma
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-### Featured Projects
-
-**MekRecords** - Inventory & Sales Management System  
-React, TypeScript, Node.js, Express, MongoDB | JWT Authentication, RBAC, handles 10,000+ records  
-[Live Demo](#) | [Source Code](#)
-
-**The Sillage Lab** - Luxury Perfume Brand Website  
-Next.js, TypeScript, Tailwind CSS, Framer Motion  
-[Live Demo](#) | [Source Code](#)
-
-**CleanXpaces** - Canadian Cleaning Services Website  
-React, Web3Forms integration, SEO optimization  
-[Live Demo](#) | [Source Code](#)
 
 ---
 

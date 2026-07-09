@@ -1,6 +1,6 @@
 ## Hi, I'm Chiemezie Uchenwoke
 
-I'm a Fullstack Developer who builds scalable and user-focused web applications that people actually use. I design and develop complete solutions from user interface to database, handling authentication, APIs, and deployment.
+I'm a Full-Stack Software Engineer who builds scalable and user-focused web applications that people actually use. I design and develop complete solutions from user interface to database, handling authentication, APIs, and deployment.
 
 I specialize in React, TypeScript, Node.js, and MongoDB. I've built inventory management systems, authentication platforms with JWT and RBAC, and client-facing websites deployed to production.
 
